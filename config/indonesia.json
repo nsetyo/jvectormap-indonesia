@@ -1,0 +1,16 @@
+[
+  {
+    "name": "read_data",
+    "file_name": "./maps/indonesia-adm1/indonesia-adm1.shp"
+  },
+  {
+    "name": "write_data",
+    "format": "jvectormap",
+    "file_name": "./output/indonesia-adm1.js",
+    "params": {
+      "code_field": "ID_1",
+      "name_field": "NAME_1",
+      "name": "indonesia-adm1"
+    }
+  }
+]
